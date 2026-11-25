@@ -437,6 +437,6 @@ See implementation guides:
 
 ## Additional Resources
 
-- [Atomic Teleport Technical Specification](https://github.com/rayls/rayls-sovereign-contracts/docs/ATOMIC_TELEPORT_TECHNICAL_GUIDE.md)
+- [Atomic Teleport Technical Specification](https://github.com/raylsnetwork/rayls-sovereign-contracts/blob/main/docs/ATOMIC_TELEPORT_TECHNICAL_GUIDE.md)
 - [Cross-Chain Communication Patterns](https://ethereum.org/en/developers/docs/bridges/)
 - [Atomic Swap Research](https://arxiv.org/abs/1801.09515)

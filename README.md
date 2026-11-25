@@ -12,7 +12,7 @@
 [![LinkedIn][linkedin-badge]][linkedin-url]
 [![YouTube][youtube-badge]][youtube-url]
 
-[Read the docs](https://docs.rayls.io) | [Build & serve](#building-the-documentation) | [Versioning](#documentation-versioning)
+[Read the docs](https://docs.rayls.com/docs/a-warm-introduction-rayls-sovereign) | [Build & serve](#building-the-documentation) | [Versioning](#documentation-versioning)
 
 </div>
 
@@ -168,8 +168,8 @@ Copyright 2026 Rayls Core Ltd.
 
 [license-badge]: https://img.shields.io/badge/License-Apache_2.0-blue.svg
 [license-url]: ./LICENSE
-[docs-badge]: https://img.shields.io/badge/docs-docs.rayls.io-blue
-[docs-url]: https://docs.rayls.io
+[docs-badge]: https://img.shields.io/badge/docs-docs.rayls.com-blue
+[docs-url]: https://docs.rayls.com/docs/a-warm-introduction-rayls-sovereign
 [discord-badge]: https://img.shields.io/badge/Discord-join%20chat-5865F2?logo=discord&logoColor=white
 [discord-url]: https://discord.gg/6THZ96357r
 [x-badge]: https://img.shields.io/badge/X-%40RaylsLabs-000000?logo=x&logoColor=white
